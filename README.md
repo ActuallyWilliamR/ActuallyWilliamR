@@ -7,7 +7,7 @@ I have for many years been curious about coding and software development as a wh
 That recently changed.
 
 I decided to challenge myself and take a more serious path into development, which led me to apply for and begin studying **Java Development with Cloud Focus**.
-This marks the start of my transistion from being a technology enthusiast to actively building, experimenting, and learning through hands-on projects.
+This marks the start of my transition from being a technology enthusiast to actively building, experimenting, and learning through hands-on projects.
 
 ## About me
 - Aspiring Java developer with a cloud-oriented mindset.
@@ -17,7 +17,7 @@ This marks the start of my transistion from being a technology enthusiast to act
 
 ## Current Focus
 - Developing a strong understanding of the programming language as a whole.
-- Jave fundementals and object-oriented programming.
+- Java fundamentals and object-oriented programming.
 - Writing clean, readable, and maintainable code.
 - Version control with Git and GitHub.
 
