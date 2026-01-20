@@ -25,6 +25,5 @@ This marks the start of my transition from being a technology enthusiast to acti
 - Build a solid foundation as a developer.
 - Create well-structured projects that prepares me for real-world scenarios.
 - Grow into a professional role within software development and cloud technologies.
-
-This is but a taste of my long journey to come.
+- 
 I look forward to learning, building, and one day contributing to something bigger.
